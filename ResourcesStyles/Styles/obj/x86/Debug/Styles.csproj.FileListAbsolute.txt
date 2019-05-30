@@ -1,0 +1,39 @@
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\App.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles_MarkupCompile.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\bin\Debug\Styles.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\bin\Debug\Styles.pdb
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\MainWindow.baml
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\MainWindow.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.g.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.Properties.Resources.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.pdb
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.exe
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.pdb
+G:\Korepetycje C#\ResourcesStyles\Styles\bin\Debug\Styles.exe
+G:\Korepetycje C#\ResourcesStyles\Styles\bin\Debug\Styles.pdb
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\MainWindow.baml
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\MainWindow.g.cs
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\App.g.cs
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles_MarkupCompile.cache
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.g.resources
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\Styles.Properties.Resources.resources
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Korepetycje C#\ResourcesStyles\Styles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\bin\Debug\Styles.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\bin\Debug\Styles.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\Styles_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\Styles.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\Styles.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\Styles.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Styles\obj\x86\Debug\Styles.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\bin\Debug\SimplestResource.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\bin\Debug\SimplestResource.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\SimplestResource_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\SimplestResource.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\SimplestResource.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\SimplestResource.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\SimplestResource\obj\x86\Debug\SimplestResource.pdb

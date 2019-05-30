@@ -1,0 +1,16 @@
+G:\Korepetycje C#\Comanding\Comanding\bin\Debug\Comanding.exe
+G:\Korepetycje C#\Comanding\Comanding\bin\Debug\Comanding.pdb
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\MainWindow.baml
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\MainWindow.g.cs
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\App.g.cs
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\Comanding_MarkupCompile.cache
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\Comanding.g.resources
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\Comanding.Properties.Resources.resources
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\Comanding.exe
+G:\Korepetycje C#\Comanding\Comanding\obj\x86\Debug\Comanding.pdb
+G:\Korepetycje C#\Comanding\Comanding\bin\Debug\Microsoft.Practices.Prism.dll
+G:\Korepetycje C#\Comanding\Comanding\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\Korepetycje C#\Comanding\Comanding\bin\Debug\Microsoft.Practices.ServiceLocation.pdb

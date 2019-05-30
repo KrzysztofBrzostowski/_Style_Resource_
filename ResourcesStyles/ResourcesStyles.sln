@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcesStyles", "ResourcesStyles\ResourcesStyles.csproj", "{06D9490A-4B80-424A-BB4C-95E980AE76CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourcesDynamic", "Resources2\ResourcesDynamic.csproj", "{3355B269-4A4C-455D-B5A6-06404B20A2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styles", "Styles\Styles.csproj", "{21C5DD1B-8AFF-4054-AD7C-C3C7DB5DAEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemesSample", "ThemesSample\ThemesSample.csproj", "{18350432-43B8-4A18-8640-DB932770BBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplestResource", "SimplestResource\SimplestResource.csproj", "{59FA0488-9D2B-4FF9-BAA2-BB619B5F9B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D9490A-4B80-424A-BB4C-95E980AE76CE}.Debug|x86.ActiveCfg = Debug|x86
+		{06D9490A-4B80-424A-BB4C-95E980AE76CE}.Debug|x86.Build.0 = Debug|x86
+		{06D9490A-4B80-424A-BB4C-95E980AE76CE}.Release|x86.ActiveCfg = Release|x86
+		{06D9490A-4B80-424A-BB4C-95E980AE76CE}.Release|x86.Build.0 = Release|x86
+		{3355B269-4A4C-455D-B5A6-06404B20A2C9}.Debug|x86.ActiveCfg = Debug|x86
+		{3355B269-4A4C-455D-B5A6-06404B20A2C9}.Debug|x86.Build.0 = Debug|x86
+		{3355B269-4A4C-455D-B5A6-06404B20A2C9}.Release|x86.ActiveCfg = Release|x86
+		{3355B269-4A4C-455D-B5A6-06404B20A2C9}.Release|x86.Build.0 = Release|x86
+		{21C5DD1B-8AFF-4054-AD7C-C3C7DB5DAEC0}.Debug|x86.ActiveCfg = Debug|x86
+		{21C5DD1B-8AFF-4054-AD7C-C3C7DB5DAEC0}.Debug|x86.Build.0 = Debug|x86
+		{21C5DD1B-8AFF-4054-AD7C-C3C7DB5DAEC0}.Release|x86.ActiveCfg = Release|x86
+		{21C5DD1B-8AFF-4054-AD7C-C3C7DB5DAEC0}.Release|x86.Build.0 = Release|x86
+		{18350432-43B8-4A18-8640-DB932770BBFA}.Debug|x86.ActiveCfg = Debug|x86
+		{18350432-43B8-4A18-8640-DB932770BBFA}.Debug|x86.Build.0 = Debug|x86
+		{18350432-43B8-4A18-8640-DB932770BBFA}.Release|x86.ActiveCfg = Release|x86
+		{18350432-43B8-4A18-8640-DB932770BBFA}.Release|x86.Build.0 = Release|x86
+		{59FA0488-9D2B-4FF9-BAA2-BB619B5F9B32}.Debug|x86.ActiveCfg = Debug|x86
+		{59FA0488-9D2B-4FF9-BAA2-BB619B5F9B32}.Debug|x86.Build.0 = Debug|x86
+		{59FA0488-9D2B-4FF9-BAA2-BB619B5F9B32}.Release|x86.ActiveCfg = Release|x86
+		{59FA0488-9D2B-4FF9-BAA2-BB619B5F9B32}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

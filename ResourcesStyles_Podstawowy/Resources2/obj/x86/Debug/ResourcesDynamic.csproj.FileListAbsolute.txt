@@ -1,0 +1,78 @@
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\bin\Debug\Resources2.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\bin\Debug\Resources2.pdb
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\MainWindow.baml
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\MainWindow.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\App.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2_MarkupCompile.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.g.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.Properties.Resources.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.pdb
+G:\Korepetycje C#\ResourcesStyles\Resources2\bin\Debug\Resources2.exe
+G:\Korepetycje C#\ResourcesStyles\Resources2\bin\Debug\Resources2.pdb
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\MainWindow.baml
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\MainWindow.g.cs
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\App.g.cs
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2_MarkupCompile.cache
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.g.resources
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.Properties.Resources.resources
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.exe
+G:\Korepetycje C#\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\bin\Debug\Resources2.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\bin\Debug\Resources2.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\Resources2_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\Resources2\obj\x86\Debug\Resources2.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\bin\Debug\Resources2.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\bin\Debug\Resources2.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.pdb
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\bin\Debug\Resources2.exe
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\bin\Debug\Resources2.pdb
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2_MarkupCompile.cache
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.g.resources
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.Properties.Resources.resources
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.exe
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.pdb
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\bin\Debug\Resources2.exe
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\bin\Debug\Resources2.pdb
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\MainWindow.baml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\MainWindow.g.cs
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\App.g.cs
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2_MarkupCompile.cache
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.g.resources
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.Properties.Resources.resources
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\ResourcesDynamic.csproj.GenerateResource.Cache
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.exe
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.pdb
+E:\Biezace_2016\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.exe
+E:\Biezace_2016\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\Resources2\obj\x86\Debug\Resources2.pdb

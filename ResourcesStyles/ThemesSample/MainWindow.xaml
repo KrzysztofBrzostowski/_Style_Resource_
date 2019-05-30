@@ -1,0 +1,14 @@
+﻿<Window x:Class="ThemesSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+		<StackPanel>
+			<Button>Button</Button>
+			<ComboBox></ComboBox>
+			<ProgressBar Value="50"/>
+			<CheckBox />
+			<RadioButton />
+		</StackPanel>
+	</Grid>
+</Window>

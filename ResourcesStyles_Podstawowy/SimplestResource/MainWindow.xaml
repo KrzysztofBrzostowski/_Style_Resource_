@@ -1,0 +1,36 @@
+﻿<Window x:Class="SimplestResource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:namespace_dla_string="clr-namespace:System;assembly=mscorlib"
+        
+        Title="MainWindow" Height="350" Width="525">
+    <!--powyzej dodajemy namespace. Nie mamy namespace, ktorty zawiera typ string (System (mscorelib))-->
+
+    
+    <!--W Window.resources definiujemy zmienne, np NazwaZmiennej-->
+    <!--Podajemy ich typ w postaci tagow (dziubkow), a nazwy tych zmiennych w postaci x:Key-->
+    <Window.Resources>
+
+        <!-- Window.Resources jest typu ResourceDictionary-to jest pewna klasa  -->
+        <ResourceDictionary>
+            
+            
+        <!--tu mozn  wpisac obiket dowlnego tupu !!!-->
+        <!--namespace system nie jest domyslenie widoczny w xaml-->
+        <!--tu mozna wstawic zmienne, z ktorych mozna skorzystac w dalszej czesci xaml-->
+        <!--przepisywane sa referencje-->
+        <!--w Resourcach moge miec styl lub string-->
+            <!-- jako klucz wartosc: ResourceDictionary -->
+        <namespace_dla_string:String x:Key="NazwaZmiennej">YYYZZZZ</namespace_dla_string:String>
+        
+    </ResourceDictionary>
+    </Window.Resources>
+
+    <StackPanel>
+        
+        <TextBlock Text="{StaticResource NazwaZmiennej}"/>
+        <TextBlock Text="{StaticResource ResourceKey=NazwaZmiennej}"/>
+        <TextBlock Text="{StaticResource ResourceKey=NazwaZmiennej}"/>
+
+    </StackPanel>
+</Window>

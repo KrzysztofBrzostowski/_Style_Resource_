@@ -1,0 +1,38 @@
+﻿<Window x:Class="Resources2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Name="stackTop" Grid.Row="0">
+            <StackPanel.Resources>
+                <SolidColorBrush x:Key="MyBrush" Color="GreenYellow"/>
+            </StackPanel.Resources>
+
+            <Button Background="{StaticResource MyBrush}">Test pinned</Button>
+           
+                                                    <!--tu zmieniamy static na Dynamic-->
+            <Button Name="movingButton" Background="{DynamicResource MyBrush}">Moving</Button>
+            
+        </StackPanel>
+
+        <StackPanel Name="stackBottom" Grid.Row="1">
+            <StackPanel.Resources>
+                <SolidColorBrush x:Key="MyBrush" Color="Red"/>
+            </StackPanel.Resources>
+            
+            <Button Background="{StaticResource MyBrush}">Test pinned</Button>
+            
+        </StackPanel>
+
+        <StackPanel Grid.Row="2">
+            <Button Click="Button_Click">Move button</Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

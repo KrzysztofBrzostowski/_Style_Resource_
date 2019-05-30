@@ -1,0 +1,31 @@
+﻿<Window x:Class="SimplestResource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:namespace_dla_string="clr-namespace:System;assembly=mscorlib"
+        
+        Title="MainWindow" Height="350" Width="525">
+    <!--powyzej dodajemy namespace. Nie mamy namespace, ktory zawiera typ string (System (mscorelib))-->
+
+    
+    <!--W Window.resources definiujemy zmienne, np NazwaZmiennej-->
+    <!--Podajemy ich typ w postaci tagow (dzióbkow), a nazwy tych zmiennych w postaci x:Key-->
+    <Window.Resources>
+	
+        <!--tu mozna  wpisac obiekt dowolnego typu-->
+        <namespace_dla_string:String x:Key="NazwaZmiennej">YYYZZZZ</namespace_dla_string:String>
+
+    </Window.Resources>
+
+    <StackPanel>
+
+	<!--
+        <TextBlock Text="XXX" />
+        <TextBlock Text="XXX" />
+        -->        
+        
+        <TextBlock Text="{StaticResource NazwaZmiennej}"/>
+        <TextBlock Text="{StaticResource ResourceKey=NazwaZmiennej}"/>
+        <TextBlock Text="{StaticResource ResourceKey=NazwaZmiennej}"/>
+
+    </StackPanel>
+</Window>

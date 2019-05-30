@@ -1,0 +1,6 @@
+D:\Projekty\PInvoke\MathDemo\MathDemo\bin\Debug\Math.dll
+D:\Projekty\PInvoke\MathDemo\MathDemo\bin\Debug\MathDemo.exe
+D:\Projekty\PInvoke\MathDemo\MathDemo\bin\Debug\MathDemo.pdb
+D:\Projekty\PInvoke\MathDemo\MathDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Projekty\PInvoke\MathDemo\MathDemo\obj\Debug\MathDemo.exe
+D:\Projekty\PInvoke\MathDemo\MathDemo\obj\Debug\MathDemo.pdb

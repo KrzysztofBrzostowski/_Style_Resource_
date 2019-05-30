@@ -1,0 +1,13 @@
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\App.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\Styles_MarkupCompile.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\bin\Release\Styles.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\bin\Release\Styles.pdb
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\MainWindow.baml
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\MainWindow.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\Styles.g.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\Styles.Properties.Resources.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\Styles.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\Styles\obj\x86\Release\Styles.pdb

@@ -1,0 +1,103 @@
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\ThemesSample.exe
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\ThemesSample.pdb
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\MainWindow.baml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\App.baml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\MainWindow.g.cs
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\App.g.cs
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample_MarkupCompile.cache
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.g.resources
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.Properties.Resources.resources
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.exe
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.pdb
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\BureauBlack.xaml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\BureauBlue.xaml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ExpressionDark.xaml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ExpressionLight.xaml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ShinyBlue.xaml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ShinyRed.xaml
+G:\Korepetycje C#\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\WhistlerBlue.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\BureauBlack.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\BureauBlue.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ExpressionDark.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ExpressionLight.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ShinyBlue.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\ShinyRed.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\WpfThemes\WhistlerBlue.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\ThemesSample.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\bin\Debug\ThemesSample.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\App.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\ThemesSample.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ThemesSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\BureauBlack.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\BureauBlue.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ExpressionDark.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ExpressionLight.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ShinyBlue.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ShinyRed.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\WhistlerBlue.xaml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\ThemesSample.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\ThemesSample.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\App.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\BureauBlack.xaml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\BureauBlue.xaml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ExpressionDark.xaml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ExpressionLight.xaml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ShinyBlue.xaml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ShinyRed.xaml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\WhistlerBlue.xaml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\ThemesSample.exe
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\ThemesSample.pdb
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\App.baml
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample_MarkupCompile.cache
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.g.resources
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.Properties.Resources.resources
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.exe
+C:\Users\Ela\Desktop\IPPT_stare\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.pdb
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.exe
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.pdb
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\BureauBlack.xaml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\BureauBlue.xaml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ExpressionDark.xaml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ExpressionLight.xaml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ShinyBlue.xaml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\ShinyRed.xaml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\WpfThemes\WhistlerBlue.xaml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\ThemesSample.exe
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\bin\Debug\ThemesSample.pdb
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\MainWindow.baml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\App.baml
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\MainWindow.g.cs
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\App.g.cs
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample_MarkupCompile.cache
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.g.resources
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.Properties.Resources.resources
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles_Podstawowy\ThemesSample\obj\x86\Debug\ThemesSample.csproj.GenerateResource.Cache

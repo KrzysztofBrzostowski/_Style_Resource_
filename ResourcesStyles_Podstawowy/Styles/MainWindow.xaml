@@ -1,0 +1,55 @@
+﻿<Window x:Class="Styles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.Resources> <!--W simplest resources mialem od razu stringa pod wlasciwoscia-->
+            <!---->
+            <ResourceDictionary><!--opconalne. Dictionary. Slownik "resourcowy"
+                zadaniem Resource dictionary jest wspolpracowac z calym mechanizmem dipendency property
+                -->
+                <Style x:Key="MyStyle"> <!--klucz w resource dictionary, wartoscia pod kluczem jest instancja klasy style-->
+                    <!--Key identyfukuje styl badz instancje innej klasy(np String) wewnatrz slownika-->
+                    
+                    <!--Styl jest kolekcja setterow-->
+                    
+                    <!--Styl definiuje zestaw wartosci wlasciwosci, np:
+                    Control.Background jest nazwa propertisa, ktorego wartosc bedzie ustawiona.
+                    w klasie Setter jest pole Property, wartoscia tego pola jest co 
+                    -->
+                    
+                    <!--Domyslnym propertisem w klasie Style jest Setters !!!!!!!
+                    do tego propertisa przypisujemy wiele instancji klasy setter
+                    -->
+                    
+                    <Setter Property="Control.Background"> <!-- klasa definiejaca pare Property i Value-->
+                        <!--ktokolwiek uzyje tego stylu, ma miec Background na GreenYellow-->
+                        <Setter.Value> 
+                            <SolidColorBrush Color="GreenYellow"/>
+                        </Setter.Value>
+                    </Setter>
+                    <Setter Property="Control.FontFamily" Value="Arial">
+                    </Setter>
+                </Style>
+
+
+            <sys:String x:Key="NazwaZmiennej">YYYZZZZ</sys:String>
+
+
+            </ResourceDictionary>
+        </Grid.Resources>
+
+
+        <StackPanel>
+            <Button Style="{StaticResource MyStyle}" Name="myButton">Button</Button>
+<!--            <Button Style="{StaticResource ResourceKey=MyStyle}" Name="myButton">Button</Button>-->
+
+            <!--<Button Name="myButton">Button</Button>-->
+            <!--<TextBlock Style="{StaticResource MyStyle}">TextBlock</TextBlock>-->
+            <TextBox Style="{StaticResource MyStyle}" Text="{StaticResource NazwaZmiennej}" />
+        </StackPanel>
+
+
+    </Grid>
+</Window>

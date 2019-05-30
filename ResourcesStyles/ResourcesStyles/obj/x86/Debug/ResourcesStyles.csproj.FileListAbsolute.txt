@@ -1,0 +1,52 @@
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\bin\Debug\ResourcesStyles.exe
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\bin\Debug\ResourcesStyles.pdb
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\ResourcesStyles_MarkupCompile.cache
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\ResourcesStyles.g.resources
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\ResourcesStyles.Properties.Resources.resources
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\ResourcesStyles.exe
+C:\Documents and Settings\Mareczek.MAREK\Ustawienia lokalne\Dane aplikacji\Temporary Projects\ResourcesStyles\obj\x86\Debug\ResourcesStyles.pdb
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.pdb
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\bin\Debug\ResourcesStyles.exe
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\bin\Debug\ResourcesStyles.pdb
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\MainWindow.baml
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\MainWindow.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\App.g.cs
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles_MarkupCompile.cache
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.g.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.Properties.Resources.resources
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projekty\Korpetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\bin\Debug\ResourcesStyles.exe
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\bin\Debug\ResourcesStyles.pdb
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\MainWindow.baml
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\MainWindow.g.cs
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\App.g.cs
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles_MarkupCompile.cache
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.g.resources
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.Properties.Resources.resources
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.exe
+G:\Korepetycje C#\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\bin\Debug\ResourcesStyles.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\bin\Debug\ResourcesStyles.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\_Style_Resource_korki\ResourcesStyles\ResourcesStyles\obj\x86\Debug\ResourcesStyles.pdb
